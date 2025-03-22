@@ -1,2 +1,2 @@
 # java-questions
-Repository for Java features Implementations
+Repository for Java features implementation
